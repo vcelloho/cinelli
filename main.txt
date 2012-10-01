@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral." -Antoine de Saint Exupery
+=======
+"Imagination will often carry us to worlds that never were, but without it we go nowhere."
+>>>>>>> 3e0d0afd38829c10dadf15aa84acf52726420702
